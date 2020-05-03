@@ -10,7 +10,7 @@ public interface finalStrings {
 	public final static String s7 = "######---------############||###############|####|####|###########";
 	public final static String s8 = "##################################################################";
 	public final static String enter = "请输入:";
-	public final static String choose = "选择： 猜数字(1) 剪刀石头布(2)  15,16班抽号(3) 计算器(4)";
+	public final static String choose = "选择： 猜数字(1) 剪刀石头布(2)  计算器(3)";
 	public final static String jstype = "请选择类型:加法(1),减法(2),乘法(3),除法(4),平方(5),立方(6)";
 	public final static String cstartstr = "输入班级(15 或者 16)";
 	public final static String showc = "抽到的人是:";

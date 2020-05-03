@@ -23,13 +23,10 @@ public final class start implements finalDatas , finalStrings , functions {
 				jsb.main(args);
 				break;
 			case 3:
-				pump.cstart();
-				break;
-			case 4:
 				jsj.main(args);
 				break;
 			}
-			System.out.println(finalStrings.continues);
+			System.out.println(continues);
 			dynamicDatas.i = a.nextInt();
 		}
 	}
