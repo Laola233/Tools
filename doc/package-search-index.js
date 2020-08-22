@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"xyz.mofangserver.api","h":"","u":""},{"l":"xyz.mofangserver.classes","h":"","u":""},{"l":"xyz.mofangserver.main","h":"","u":""},{"l":"xyz.mofangserver.quote","h":"","u":""},{"l":"所有程序包","h":"","u":"allpackages-index.html"}]
