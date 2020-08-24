@@ -7,4 +7,4 @@ Language Support: Simplified Chinese
 
 Final version published.
 
-Web Javadoc: None
+Web Javadoc: http://mofangserver.xyz/WebJavaDoc/Tools/
